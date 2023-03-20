@@ -31,6 +31,7 @@ Currently, I'm studying various penetration testing tools and frameworks, and im
 
 #
 ### Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cillustrisimo&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=cillustrisimo&show_icons=true&theme=github_dark)
 
