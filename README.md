@@ -4,7 +4,7 @@
 
 I'm a self-taught programmer interested in cybersecurity, data science, and machine learning. 
 
-Currently, I'm studying various penetration testing tools and frameworks, and improving my skills in programming and data-science through various different projects. I'm new to a lot of these things, and always happy to learn. 
+Currently, I'm studying various cybersecurity topics and improving my skills in programming and data-science through self-study and projects. I'm new to a lot of these things, and always happy to learn. 
 
 <br />
 
