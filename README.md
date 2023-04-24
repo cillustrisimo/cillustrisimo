@@ -33,5 +33,5 @@ Currently, I'm studying machine learning with scikit-learn and improving my skil
 ### Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cillustrisimo&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=cillustrisimo&show_icons=true&theme=github_dark)
+<!--![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=cillustrisimo&show_icons=true&theme=github_dark)-->
 
