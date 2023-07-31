@@ -2,9 +2,9 @@
 <h3 align="center">Novice programmer and (ethical) hacking enthusiast</h3>
 <br />
 
-I'm a self-taught programmer interested in cybersecurity, data science, and machine learning. 
+I'm a self-taught programmer interested in data science, software engineering, and machine learning. 
 
-Currently, I'm studying machine learning with scikit-learn and improving my skills in programming through self-study and projects. I'm new to a lot of these things, and always happy to learn and collaborate. 
+I've recently begun an intensive program at NYU Tandon for Computer Science fundamentals, and I am coding everyday lately with C++ for the course and studying topics such as discrete mathematics and data structures & algorithms. I'm new to a lot of these things, and always happy to learn and collaborate. 
 
 <br />
 
