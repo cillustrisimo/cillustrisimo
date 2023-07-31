@@ -4,7 +4,7 @@
 
 I'm a self-taught programmer interested in data science, software engineering, and machine learning. 
 
-I've recently begun an intensive program at NYU Tandon for Computer Science fundamentals, and I am coding everyday lately with C++ for the course and studying topics such as discrete mathematics and data structures & algorithms. I'm new to a lot of these things, and always happy to learn and collaborate. 
+In July I began an intensive program at NYU Tandon for Computer Science fundamentals, and I am coding everyday lately with C++ for the course and studying topics such as discrete mathematics and data structures & algorithms. I'm new to a lot of these things, and always happy to learn and collaborate. 
 
 <br />
 
