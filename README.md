@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Carl.</h1>
-<h3 align="center">Novice programmer and CS student</h3>
+<!-- <h3 align="center">Novice programmer and CS student</h3> -->
 <br />
 
 I'm a self-taught programmer interested in data science, software engineering, and machine learning. 
